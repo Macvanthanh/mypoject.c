@@ -1,0 +1,2 @@
+
+    printf("nhap doanh thu: ");
